@@ -12,7 +12,7 @@
   job:
     detail:
     i18n: concrete_job
-  icon: fa-plus-square
+  icon: fa-cloud-upload
 
 - name:
     detail:
@@ -26,7 +26,7 @@
   job:
     detail:
     i18n: uol_job
-  icon: fa-plus-square
+  icon: fa-coffee
 
 - name:
     detail:
@@ -40,7 +40,7 @@
   job:
     detail:
     i18n: guiamais_job
-  icon: fa-plus-square
+  icon: fa-at
 
 - name:
     detail:
@@ -54,7 +54,7 @@
   job:
     detail:
     i18n: oppa_job
-  icon: fa-plus-square
+  icon: fa-cart-plus
 
 - name:
     detail:
@@ -68,7 +68,7 @@
   job:
     detail:
     i18n: lcs_job
-  icon: fa-plus-square
+  icon: fa-rocket
 
 - name:
     detail:
@@ -82,4 +82,4 @@
   job:
     detail:
     i18n: college_job
-  icon: fa-plus-square
+  icon: fa-address-book
