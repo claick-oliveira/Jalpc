@@ -1,0 +1,61 @@
+{
+  "website":{
+    "title": "Claick's blog"
+  },
+  "nav":{
+    "home": "Home",
+    "about_me": "Sobre",
+    "skills": "Habilidades",
+    "projects": "Projetos",
+    "career": "Carreira",
+    "blog": "Blog",
+    "link": "Link"
+  },
+  "about_me":{
+    "about_me": "Sobre Mim",
+    "des": "Graduado em Processamento de Dados pela FATEC. Trabalhando atualmente como Arquiteto Cloud, certificado em AWS nível Professional e entusiasta em DevOps/IA, ajudando times de desenvolvimento e áreas de negócios com CI/CD, automação e infraestrutura como código. Nas horas vagas programador Python/Javascript tentando finalizar aquele \"Hello World\"."
+  },
+  "skills":{
+    "my_skills": "Minhas Habilidades"
+  },
+  "projects":{
+    "my_projects": "Meus Projetos",
+    "jalpc": "This project is my project. I use javescript to get repo's information all my repos have only one request.",
+    "cpython": "This project is other's project. I use another request to get repo's information.",
+    "familycode": "This is another project."
+  },
+  "career":{
+    "concrete": "Concrete",
+    "concrete_des": "Trabalhando atualmente como Arquiteto Cloud ajudando times de desenvolvimento e áreas de negócios com CI/CD, automação e infraestrutura como código. Aplicando metodologias Ágeis e cultura DevOps em projetos de grandes empresas. Ajudando outros projetos com o papel de Líder de Capítulo.",
+    "concrete_date": "Atual",
+    "concrete_job": "DevOps",
+    "uol": "UOL Diveo",
+    "uol_des": "Trabalhando na equipe de suporte N3 Cloud para diversos setores da empresa, ajudando a automatizar tarefas com diversas ferramentas e scripts. Atuei também na equipe de implantação de projetos focado mais em ambientes Linux e executando projetos desde Datacenter com modelo tradicional ou ambientes Clouds como AWS, OpenStack.",
+    "uol_date": "Fev. 2017",
+    "uol_job": "Analista de Sistemas",
+    "guiamais": "guiamais.com",
+    "guiamais_des": "Um dos responsáveis pela migração, reestruturação e administração de toda a infraestrutura Web na Amazon, cuidando também de tuning/profile de aplicação, monitoração (Nagios), gerenciamento de performance e automação de tarefas. Ajudei na migração de plataforma do Site de .NET para Java e na implantação/criação de diversos produtos.",
+    "guiamais_date": "Dez. 2015",
+    "guiamais_job": "Administrador de Sistemas",
+    "oppa": "OPPA",
+    "oppa_des": "Administração de toda a infraestrutura Web, profile de aplicação, tuning de aplicação, monitoração e gerenciamento de performance com Nagios e Newrelic, automação com Chef entre outras tarefas. Criação e administração da infraestrutura local. Gerenciamento de Cloud (AWS) e seus diversos serviços.",
+    "oppa_date": "Out. 2013",
+    "oppa_job": "Administrador de Sistemas",
+    "lcs": "LCS",
+    "lcs_des": "Consultor na área de Networking, trabalhando com Netscaler, Branch Repeater e Access Gateway, atuando em diversas empresas em todo o Brasil. Realizei também um projeto na Colômbia em parceria com a Citrix.",
+    "lcs_date": "Sep. 2013",
+    "lcs_job": "Consultor Tecnico Citrix",
+    "college": "FATEC",
+    "college_des": "Graduado em Processamento de Dados e administrador de sistemas como estagiário",
+    "college_date": "Nov. 2011",
+    "college_job": "Estudante/Estagiário"
+  },
+  "blog":{
+    "my_blog": "Meu Blog"
+  },
+  "link":{
+    "link": "Link",
+    "view": "views"
+  }
+
+}

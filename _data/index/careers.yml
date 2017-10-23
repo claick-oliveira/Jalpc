@@ -1,29 +1,85 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail:
+    i18n: concrete
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail:
+    i18n: concrete_des
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail:
+    i18n: concrete_date
   job:
-    detail: CTO
-    i18n: company_a_job
+    detail:
+    i18n: concrete_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail:
+    i18n: uol
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail:
+    i18n: uol_des
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail:
+    i18n: uol_date
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
+    detail:
+    i18n: uol_job
+  icon: fa-plus-square
+
+- name:
+    detail:
+    i18n: guiamais
+  desc:
+    detail:
+    i18n: guiamais_des
+  date:
+    detail:
+    i18n: guiamais_date
+  job:
+    detail:
+    i18n: guiamais_job
+  icon: fa-plus-square
+
+- name:
+    detail:
+    i18n: oppa
+  desc:
+    detail:
+    i18n: oppa_des
+  date:
+    detail:
+    i18n: oppa_date
+  job:
+    detail:
+    i18n: oppa_job
+  icon: fa-plus-square
+
+- name:
+    detail:
+    i18n: lcs
+  desc:
+    detail:
+    i18n: lcs_des
+  date:
+    detail:
+    i18n: lcs_date
+  job:
+    detail:
+    i18n: lcs_job
+  icon: fa-plus-square
+
+- name:
+    detail:
+    i18n: college
+  desc:
+    detail:
+    i18n: college_des
+  date:
+    detail:
+    i18n: college_date
+  job:
+    detail:
+    i18n: college_job
   icon: fa-plus-square
